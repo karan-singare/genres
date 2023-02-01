@@ -1,0 +1,10 @@
+{
+  "name": "genres",
+  "version": "0.0.1",
+  "description": "A react native component displaying the list of genres.",
+  "main": "index.js",
+  "repository": "https://github.com/karan-singare/genres.git",
+  "author": "Karan Singare <karansingare@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
