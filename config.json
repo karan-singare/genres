@@ -6,5 +6,5 @@
     "appId": "634f8540e713640008547cb9",
     "appUrl": "tv.mogiio.ott.dev.customers"
   },
-  "insertAfter": "{this.renderSuggestions()}"
+  "insertAfter": "{this.renderGenres()}"
 }
