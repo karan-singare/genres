@@ -6,5 +6,8 @@
   "repository": "https://github.com/karan-singare/genres.git",
   "author": "Karan Singare <karansingare@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
 }
