@@ -1,6 +1,6 @@
 {
   "name": "@mogi/genres",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A react native component displaying the list of genres.",
   "main": "index.js",
   "repository": "https://github.com/karan-singare/genres.git",
