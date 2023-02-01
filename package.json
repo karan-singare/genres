@@ -1,5 +1,5 @@
 {
-  "name": "genres",
+  "name": "@mogi/genres",
   "version": "0.0.1",
   "description": "A react native component displaying the list of genres.",
   "main": "index.js",
